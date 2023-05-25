@@ -7,7 +7,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/parikshitcarpenter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parikshitcarpenter" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/parikshitcarpenter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="parikshit carpenter" height="30" width="40" /></a>
-<a href="https://instagram.com/prixx_it" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prixx_it" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/parikshit9584" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="parikshit9584" height="30" width="40" /></a>
 <a href="https://discord.gg/ON3X4OT#4210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ON3X4OT#4210" height="30" width="40" /></a>
 </p>
